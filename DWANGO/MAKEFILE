@@ -1,0 +1,81 @@
+all: init.exe thisnode.exe nodename.exe send.exe sendscor.exe broadcas.exe recv.exe close.exe gamesamp.exe sendcrc.exe sendack.exe
+
+init.exe: init.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 init.obj gclfr32.lib dapi.lib 
+
+init.obj : init.c dapi.h
+        wcl386 -zq -c init.c
+
+
+thisnode.exe: thisnode.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 thisnode.obj gclfr32.lib dapi.lib 
+
+thisnode.obj : thisnode.c dapi.h
+        wcl386 -zq -c thisnode.c
+
+
+nodename.exe: nodename.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 nodename.obj gclfr32.lib dapi.lib 
+
+nodename.obj : nodename.c dapi.h
+        wcl386 -zq -c nodename.c
+
+
+send.exe: send.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 send.obj gclfr32.lib dapi.lib 
+
+send.obj : send.c dapi.h
+        wcl386 -zq -c send.c
+
+
+sendcrc.exe: sendcrc.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 sendcrc.obj gclfr32.lib dapi.lib 
+
+sendcrc.obj : sendcrc.c dapi.h
+        wcl386 -zq -c sendcrc.c
+
+
+sendack.exe: sendack.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 sendack.obj gclfr32.lib dapi.lib 
+
+sendack.obj : sendack.c dapi.h
+        wcl386 -zq -c sendack.c
+
+
+sendscor.exe: sendscor.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 sendscor.obj gclfr32.lib dapi.lib 
+
+sendscor.obj : sendscor.c dapi.h
+        wcl386 -zq -c sendscor.c
+
+
+broadcas.exe: broadcas.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 broadcas.obj gclfr32.lib dapi.lib 
+
+broadcas.obj : broadcas.c dapi.h
+        wcl386 -zq -c broadcas.c
+
+
+recv.exe: recv.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 recv.obj gclfr32.lib dapi.lib 
+
+recv.obj : recv.c dapi.h
+        wcl386 -zq -c recv.c
+
+
+close.exe: close.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 close.obj gclfr32.lib dapi.lib 
+
+close.obj : close.c dapi.h
+        wcl386 -zq -c close.c
+
+
+gamesamp.exe: gamesamp.obj gclfr32.lib dapi.lib
+        wcl386 -zq -od -5r -s -k40960 gamesamp.obj gclfr32.lib dapi.lib 
+
+gamesamp.obj : gamesamp.c dapi.h
+        wcl386 -zq -c gamesamp.c
+
+clean:
+	del *.obj 
+    del *.exe

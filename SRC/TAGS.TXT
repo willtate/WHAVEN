@@ -1,0 +1,102 @@
+/*
+
+      WITCHAVEN TAG LIST
+
+*/
+
+
+SECTOR TAGS:
+1000        BOBBING LAVA
+
+1100-1199   LOWER FLOOR ANY AMOUNT 11## (##) UNITS DOWN        
+1200-1299   RAISE FLOOR ANY AMOUNT 12## (##) UNITS UP
+
+1300-1399   LOWER CEILING ANY AMOUNT 13## (##) UNITS DOWN
+1400-1499   RAISE CEILING ANY AMOUNT 14## (##) UNITS UP
+
+1500-1599   LOWER FLOOR AND CEILING ANY AMOUNT 15## (##) AMOUNT
+1600-1699   RAISE FLOOR AND CEILING ANY AMOUNT 16## (##) AMOUNT
+
+1800-1899   MANUAL ELEVATOR STAYS 16 UNITS FROM CEILING CAN HAVE
+            UP AND OR DOWN SWITCH
+
+1900-1999   CRUSHING SECTORS
+
+            1900  RAISE FLOOR TO CEILING BECOMES DOOR #7
+            1901  RAISE FLOOR TO CEILING BECOMES BLOCK
+            1902  LOWER CEILING TO FLOOR BECOMES BLOCK
+            1903  RAISE FLOOR TO CEILING THEN DOWN PERPETUAL
+            1904  LOWER CEILING TO FLOOR THEN UP PERPETUAL
+            1905  FLOOR AND CEILING MEET AND BECOMES BLOCK
+            1906  FLOOR AND CEILING MEET THEN OPEN PERPETUAL
+
+
+2000-2999   COMPLEX DOORS WITH KEYS
+
+            2###
+               DOOR TYPE
+              DOOR ANTIC 
+             KEY TO OPEN DOOR
+
+
+            KEY TO OPEN DOOR:
+               
+               0 = NONE
+
+
+            DOOR ANTIC:
+
+               0 = STAYS OPEN
+               1 = MANUAL
+               2 = DELAY
+               3 = LONG DELAY
+
+            DOOR TYPE:
+
+               0 = UP
+               1 = DN
+               2 = MIDDLE
+
+2100-2199  REVOLVING SECTOR
+
+80-89    FLOOR PANNING   ( USE WITH LAVA OR SLIME )
+
+         0 N
+         1 NE
+         2 E
+         3 SE
+         4 S
+         5 SW
+         6 W
+         7 NW
+
+
+
+SPRITE TAG:
+
+   HITAG 99
+   LOTAG 1-4      1  OUT
+                  2  IN
+                  3  UP
+                  4  DN
+
+   
+   LOTAG 3     ROTATESPRITE
+
+   DARK        DARKENS FLOOR CEILING AND WALLS
+   MDARK                "
+   VDARK                "
+   XDARK                "
+
+   FLICKER
+   GLOW        USE WITH LAVA FLOOR
+
+
+   50-59       CART     CARTS HITAG IS THE DIRECTION
+
+   70-79       PUSHABLE SPRITE
+
+   80          IRONBARS OR SPRITEDOOR     HITAG IS 1-2 SWING DIR
+
+
+

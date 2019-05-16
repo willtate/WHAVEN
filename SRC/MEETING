@@ -1,0 +1,57 @@
+// Meeting with Amy
+
+    What is hero time? The reason for this is because the effect caused by
+    hero time is precise as to what it does.
+
+    Strafing? Part of the fix to definable keys.
+
+    Joystick code? Talked to Les about this. We are still looking into it.
+
+    Gamma Correction? Will be fixed easily.
+
+    Multi-Player? Check with Les.
+
+    Jump? I'll check into it and fix it if its a problem. This only apears to
+    be the case on a slow machine.
+
+    Run? What is the problem.
+
+    Creatures slide when they walk? Do they.
+
+    Sky graphics? Need better looking sky.
+
+    Mouse controls? Definable mouse controls.
+
+    Save and Auto-Save? Will take some time (1-2 days maybe less if I get 
+    lucky).
+
+    George Brousard? Code for statusbar in SVGA.
+
+    Weapon default? Player should start with a knife.
+
+    Walk through monsters? Will look into problem.
+
+    Night Vision? Will look into problem. Do you have any suggestions.
+
+    Monsters eating Monsters? WTF.
+
+    Disapearing arrow in map? Will look into problem.
+
+    Save map info? Will look into problem.
+
+    Faster Elevator? I thought this was a mediaval game.
+
+    Self Running Demo? If time permits.
+
+    Sound fx for the jump? Who will ask Joe for this.
+
+    VRhelm and space ball? In code but not activated at the present time.
+
+    Damage to weapons? Should the weapons take double or triple damage.
+
+    Higher intensity? The intensity for the first few seconds should be 
+    increased.
+
+    Find full map? Piece of cake.
+
+    Aparition does damage? How much.

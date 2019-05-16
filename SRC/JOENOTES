@@ -1,0 +1,48 @@
+as of june 9 pm
+
+new areas marked with //JSA_DEMO
+
+	
+-	WHFX.C
+
+		** Deleted cartsnd and gratesnd and their calls to the x-function
+			playsound_loop.
+
+		** Commented out all code associated with the sector extra value.
+
+		** Deleted the sndvol() function.
+
+-	WHOBJ.C
+
+		** Commented out the fire stuff.
+
+		** Commed out some other code near potions that was affecting
+			the elevator.
+		
+		** added new cartstuff by LIFTUP and LIFTDN
+
+
+		** Added volume calculation to sword klanks - this is
+		   needed for the gobline skirmishes.
+
+-	WHTAG.C
+		** Deleted/replaced some door stuff. 
+
+		** Stone moving sound added for triggered 1400-1499 tag.
+
+
+-	WHAVEN.C
+		** Added SND_MenuMusic() function.
+
+		** Added updatesound_loc() to game loop.	
+	
+	
+-	WHMENU.C
+		** SND_StartMusic(level) is now called from here when player
+		   chooses NewGame.
+
+
+-	WHPLR.C
+		** Added music switch to loadnewlevel();
+
+

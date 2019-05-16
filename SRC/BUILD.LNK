@@ -1,0 +1,9 @@
+system  dos4g
+debug   all
+option  map
+name    ..\run\build
+
+file  build, 
+      engine, 
+      a, 
+      bstub

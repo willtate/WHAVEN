@@ -1,0 +1,30 @@
+//#line "cdrom.c" 69
+extern void rmint86(short intno,struct rmregs *rmptr);
+//#line "cdrom.c" 129
+extern void __far *alcmem(short bytes);
+//#line "cdrom.c" 157
+extern int ismscdex(void );
+//#line "cdrom.c" 171
+extern void cd_getname(void );
+//#line "cdrom.c" 186
+extern void sendIOcmd(short hdl,short bytes,short cmd);
+//#line "cdrom.c" 198
+extern void cd_opendoor(short cdhdl);
+//#line "cdrom.c" 208
+extern void cd_closedoor(short cdhdl);
+//#line "cdrom.c" 218
+extern void cd_reset(short cdhdl);
+//#line "cdrom.c" 228
+extern void cd_getaudiodisk(short cdhdl);
+//#line "cdrom.c" 242
+extern void cd_getaudiotrack(short cdhdl,char tno);
+//#line "cdrom.c" 258
+extern int cd_init(void );
+//#line "cdrom.c" 287
+extern void cd_uninit(void );
+//#line "cdrom.c" 293
+extern void cd_stopplay(void );
+//#line "cdrom.c" 311
+extern int cd_playtrack(char tno);
+//#line "cdrom.c" 359
+extern void cd_resumeplay(void );

@@ -1,0 +1,28 @@
+//#line "whmsc.c" 70
+extern void faketimerhandler(void );
+//#line "whmsc.c" 294
+extern void setvmode(int m);
+//#line "whmsc.c" 305
+extern void setatr(int fore,int back);
+//#line "whmsc.c" 311
+extern void setcsize(int t,int b);
+//#line "whmsc.c" 323
+extern void gotoxy(int x,int y);
+//#line "whmsc.c" 338
+extern void getcurs(void );
+//#line "whmsc.c" 357
+extern void setregion(int x1,int y1,int x2,int y2);
+//#line "whmsc.c" 366
+extern void scrollup(void );
+//#line "whmsc.c" 382
+extern void scrolldn(void );
+//#line "whmsc.c" 398
+extern void clrregion(int fore,int back);
+//#line "whmsc.c" 416
+extern void __far *dpmi_getexception(int no);
+//#line "whmsc.c" 429
+extern void dpmi_setexception(int no,void __far *func);
+//#line "whmsc.c" 442
+extern int dpmi_callrealint(int no,struct rmreg *r);
+//#line "whmsc.c" 463
+extern int isipx(void );

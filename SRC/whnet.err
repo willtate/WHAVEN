@@ -1,0 +1,22 @@
+c:\mpsdk\include\platform.h(41): Warning! W121: Text following pre-processor directives is not standard C
+C:\WATCOM\h\nt\windows.h(56): Error! E1100: Definition of macro 'i386' not identical to previous definition
+C:\WATCOM\h\nt\windef.h(95): Error! E1100: Definition of macro 'FAR' not identical to previous definition
+C:\WATCOM\h\nt\windef.h(103): Error! E1034: Symbol 'WORD' already defined
+C:\WATCOM\h\nt\windef.h(109): Error! E1034: Symbol 'LPBYTE' already defined
+C:\WATCOM\h\nt\windef.h(112): Error! E1034: Symbol 'PWORD' already defined
+C:\WATCOM\h\nt\windef.h(113): Error! E1034: Symbol 'LPWORD' already defined
+C:\WATCOM\h\nt\windef.h(114): Error! E1034: Symbol 'LPLONG' already defined
+C:\WATCOM\h\nt\windef.h(117): Error! E1034: Symbol 'LPVOID' already defined
+C:\WATCOM\h\nt\winnt.h(95): Error! E1022: Missing or misspelled data type near 'CHAR'
+C:\WATCOM\h\nt\winnt.h(96): Error! E1022: Missing or misspelled data type near 'CHAR'
+C:\WATCOM\h\nt\winnt.h(98): Error! E1009: Expecting ',' but found '*'
+C:\WATCOM\h\nt\winnt.h(100): Error! E1034: Symbol 'LPSTR' already defined
+C:\WATCOM\h\nt\winnt.h(100): Error! E1034: Symbol 'PSTR' already defined
+C:\WATCOM\h\nt\winnt.h(101): Error! E1060: Invalid type
+C:\WATCOM\h\nt\winnt.h(144): Error! E1034: Symbol 'HANDLE' already defined
+C:\WATCOM\h\nt\mmsystem.h(1808): Error! E1034: Symbol 'HPSTR' already defined
+C:\WATCOM\h\nt\winsock.h(752): Error! E1057: Modifiers disagree with previous definition of 'shutdown'
+C:\WATCOM\h\nt\winsock.h(752): Error! E1062: Inconsistent return type for function 'shutdown'
+C:\WATCOM\h\nt\winsock.h(752): Error! E1129: Type does not agree with previous definition of 'shutdown'
+C:\WATCOM\h\nt\winsock.h(752): Error! E1151: Parameter count does not agree with previous definition
+c:\mpsdk\include\mplib.h(77): Error! E1147: Too many errors: compilation aborted

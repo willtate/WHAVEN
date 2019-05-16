@@ -1,0 +1,70 @@
+THINGS TO DO
+
+
+MONSTERS            ART             CODE                TIME
+
+WILLOWISP           PENDING         DONE                TIME OF ART
+WRAITH              PENDING         PENDING             3 HRS + ART
+SKELETON            DONE            DONE                DONE
+
+NUKE                DONE            PENDING             5 HRS
+FIREBALL            DONE            DONE                DONE 
+
+TREASURES           DONE            DONE                DONE  
+
+MOVING SKY          DONE?           PENDING             UNKNOWN 3 HRS EST
+
+SPEAR TRAPS         DONE            DONE                DONE 
+
+SPAWN WEAPONS       PENDING         PENDING             3 HRS
+
+EXCALIBUR           PENDING         PENDING             3 HRS
+BATTLE AXE          PENDING         PENDING             3 HRS
+MAGIC AXE           PENDING         PENDING             3 HRS
+HALBERD             PENDING         PENDING             3 HRS
+MACE                PENDING         PENDING             3 HRS
+
+CARCASS BLOOD       DONE            PENDING             1 HRS
+
+ARROW FREEZE THING  DONE            DONE                DONE 
+
+SOUND ARROW HIT     DONE            PENDING             JOE
+
+TREASURE CHEST FX   DONE            PENDING             JOE
+
+STATUSBAR SVGA      PENDING         PENDING             3 HRS
+
+CHANGE ARROW TEXT   DONE            DONE                DONE 
+
+SHATTER SPRITES     PENDING         PENDING             3 HRS
+
+6 NETWORK MAPS      PENDING         PENDING             LES
+
+CYBERMAX            DONE            PENDING             3 HRS INCLUDES TESTING
+
+HELP SCREEN UPDATE  PENDING         PENDING             UNKNOWN (ERNIE)
+
+3 BUTTON MOUSE      DONE            PENDING             3 HRS INCLUDES TESTING
+
+FROZEN SPIDER       DONE            DONE                DONE 
+
+TREMORS             DONE            PENDING             UNKNOWN
+
+SPEARS DART TRAPS   DONE            DONE                DONE 
+
+RUST                DONE            PENDING             1 HRS
+
+SPLASH ART          PENDING         DONE                UNKNOWN (ERNIE)
+
+MODEM PLAY          DONE            PENDING             LES
+
+FIRE POTION FLAG    DONE            DONE                DONE  
+
+TELEPORTERS         DONE            DONE                DONE  
+
+
+THESE TIME ESTIMATES ARE VERY OPTIMISTIC AND ARE BASED ON AN 8 HOUR DAY
+(ALTHOUGH I WILL WORK 12 PER DAY IF NEED BE. I WOULD SUGGEST THAT YOU BASE
+THE TIME ON AN 8 HOUR PER DAY BASIS TO HAVE A COMMON TIME REFERENCE.)
+
+

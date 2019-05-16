@@ -1,0 +1,99 @@
+The following is a list of the things that need to be compleated to have
+Witchaven fully compleated.
+
+1. Check if you are on a sprite for creaking bridge sounds et al.
+
+2. Made noise routine ala wolfenstein.
+
+3. Monsters need to make noise when they chase you.
+
+4. Sector sound effects.
+
+5. Run sound flag, heavy breathing etc.
+
+6. Falling damage.
+
+7. Key press for jump problem.
+
+8. Volume controls.
+
+9. Gamma Correction problem?
+
+10. More Chunk variety <*>
+
+11. Fix how much monster sinks in water and lava.
+
+12. Invisible - brightness - flashes problem fix when you die.
+
+13. Silent save game type the name.
+
+14. Enter problem in save game and F9 auto save last save game name.
+
+15. Clank - Chunk - randomize sounds durring combat
+
+16. Super Bob.
+
+17. Longer delay in menu selections.
+
+18. Judy special powers. <*>
+
+19. Follow mode.
+
+20. Dog - teeth special situation.
+
+21. Nuke - bone - BFG & Smoke. <*>
+
+22. Bats need to make sounds.
+
+23. Grondoval Guard monster. This will give us 3 extra monsters. <*>
+
+24. Throw the axe
+
+25. Marsh monster. <*>
+
+26. Control weapon ammo durring spawn.
+
+27. Merge with Les.
+
+28. Les Modem play.
+
+29. SVGA status bar.
+
+A - GONZALO - GOBLIN SWORD COORDS & GOBLIN SWORD ICON      MONDAY 14!
+
+B - ERNIE   - SVGA STATUS BAR STUFF                        MONDAY 14!
+
+C - SCOTT   - SPELL SPECIAL EFFECTS PAGE                   THURSDAY 17...
+
+D - ERNIE   - HELP SCREEN AND CREDITS PAGE                 MONDAY 21!
+
+E - ALL     - SPELL CAST MOVEMENTS ( WEEK PROJECT )        MONDAY 21!!!
+
+F - ERNIE   - FINISH JUDY                                  TUESDAY 15!
+
+G - GONZALO - CHUNKS                                       TUESDAY 15 ...
+
+Time Line:
+
+Fri  11 #24 D                                              < A > 
+Sat  12 #11 H   #18 W   #17 H   #12 H
+Sun  13 #18 W
+Mon  14 #1  D   #2  D   #3  D   #4  D   #22 D   #15 D      < B >
+Tue  15 #5  D   #6  D   #23 D                              < F > < G >
+Wed  16 #7  H ( THERE MIGHT BE TIME LEFT IF THE ABOVE DO NOT CAUSE PROBLEM )
+Thr  17 #8  D                                              < C >
+Fri  18 #27 D ( LES - JOE - RAFAEL MERGE )                 < E >
+Sat  19 #24 H   #25 D   #14 D   #16 H
+Sun  20 #18 W
+Mon  21 #13 H   #14 D   #21 D                              < D >
+Tue  22 #28 W
+Wed  23 #29 D
+Thr  24                 Rafael - Maps only and bug fixes
+Fri  25                        "
+Sat  26                        "
+Sun  27                        "
+Mon  28                        "
+Tue  29                        "
+Wed  30                        "
+Thr  31                        "
+

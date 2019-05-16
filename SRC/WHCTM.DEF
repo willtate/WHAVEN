@@ -1,0 +1,16 @@
+//#line "whctm.c" 19
+extern void ctm_deinit(void );
+//#line "whctm.c" 28
+extern int ctm_init(int port);
+//#line "whctm.c" 82
+extern void vio_deinit(void );
+//#line "whctm.c" 91
+extern void vio_reset(void );
+//#line "whctm.c" 99
+extern void vio_setup(void );
+//#line "whctm.c" 112
+extern int vio_init(int port);
+//#line "whctm.c" 145
+extern void vio_read(short *yaw,short *pitch,short *roll);
+//#line "whctm.c" 203
+extern void whvrmon(void );
